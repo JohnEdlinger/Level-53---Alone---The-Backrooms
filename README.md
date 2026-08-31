@@ -31,7 +31,7 @@ Wi-Fi also still works, although it's practically shit. There isn't much to do, 
 
  
 
-[$alt](Level-53-Steak.jpg)
+![Salt](Level-53-Steak.jpg)
 
 It's here for you anytime you come by!
 
