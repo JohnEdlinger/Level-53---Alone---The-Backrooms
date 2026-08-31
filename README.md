@@ -11,7 +11,7 @@ Here's an image of the kitchen if you were wondering.
 
  
 
-[{$alt}](level-53-cc.jpg)
+![Salt](level-53-cc.jpg)
 Cozy… ain't it?
 
  
