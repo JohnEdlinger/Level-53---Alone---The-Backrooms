@@ -11,7 +11,7 @@ Here's an image of the kitchen if you were wondering.
 
  
 
-{$alt}
+[{$alt}](https://backrooms-wiki.wdfiles.com/local--files/level-53/level-53-cc.jpg)
 Cozy… ain't it?
 
  
@@ -30,7 +30,7 @@ Wi-Fi also still works, although it's practically shit. There isn't much to do, 
 
  
 
-{$alt}
+[{$alt}](https://backrooms-wiki.wdfiles.com/local--files/level-53/Level-53-Steak.jpg)
 It's here for you anytime you come by!
 
  
